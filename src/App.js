@@ -3,9 +3,13 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-      </header>
+      <input type="text" />
+
+      <button>
+        Trigger Event
+      </button>
+
+      <h1>Teste</h1>
     </div>
   );
 }
